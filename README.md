@@ -317,3 +317,10 @@ docker run -d -p 8000:8000 guovern/iptv-api:lite
 ## 许可证
 
 [MIT](./LICENSE) License &copy; 2024-PRESENT [Govin](https://github.com/guovin)
+
+
+## 请求路径 
+https://raw.githubusercontent.com/hello-schurmi/iptv-api/master/output/user_result.txt
+
+
+
