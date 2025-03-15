@@ -320,7 +320,7 @@ docker run -d -p 8000:8000 guovern/iptv-api:lite
 
 
 ## 请求路径 
-https://raw.githubusercontent.com/hello-schurmi/iptv-api/master/output/user_result.txt
+https://raw.githubusercontent.com/hello-schurmi/iptv-api/master/output/user_result.m3u
 
 
 
